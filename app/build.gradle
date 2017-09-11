@@ -23,4 +23,7 @@ dependencies {
     compile fileTree(dir: 'libs', include: ['*.jar'])
     testCompile 'junit:junit:4.12'
     compile 'com.android.support:appcompat-v7:26.0.0-alpha1'
+    compile 'ai.api:sdk:2.0.7@aar'
+// api.ai SDK dependencies
+    //compile 'com.android.support:appcompat-v7:23.2.1'
 }
